@@ -6,7 +6,7 @@ Full Stack Developer
 
 I've been learning to code over the past year and am just about to graduate from a 6 month full-stack web dev bootcamp. My passions are in front-end development and design, I love creating fun projects that are easy to use and spark joy.
 
-*   🌍  Based in Australia
+*   🌍  Based in the UK
 *   🖥️  See my portfolio [here](http://essteel.github.io)
 *   🧠  I'm currently learning JavaScript and the MERN stack
 *   🦇  Former ecologist, eternal bat enthusiast
