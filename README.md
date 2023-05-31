@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sian
+Hi! I'm Sian
 ============================================================================================================================
 
 Full Stack Developer
 --------------------
 
-I've been learning to code over the past year and am just about to graduate from a 6 month full-stack web dev bootcamp. My passions are in front-end development and design, I love creating fun projects that are easy to use and spark joy.
+I've been learning to code over the past year and have recently graduated from a 6 month full-stack web development bootcamp. My passions are in front-end development and design, I love creating fun projects that are easy to use and spark joy.
 
 *   🌍  Based in the UK
 *   🖥️  See my portfolio [here](http://essteel.github.io)
-*   🧠  I'm currently learning JavaScript and the MERN stack
+*   🧠  I'm currently learning C# and Data Analysis
 *   🦇  Former ecologist, eternal bat enthusiast
 *   😊  Pronouns: She/Her
 
@@ -20,6 +20,7 @@ I've been learning to code over the past year and am just about to graduate from
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
